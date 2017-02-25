@@ -5,6 +5,8 @@ Automatic Ducky Payload Generator
 
 The __Rubber ducky__ is a great suite for penetration testing. However, I tend to find it a hassle to create a payload, and created this project in order to automate that process.
 
+### Donations?
+#### www.paypal.me/toxicnull
 
 ## Dependencies
 
